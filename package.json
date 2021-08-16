@@ -1,5 +1,5 @@
 {
-    "name": "storyblok-nextjs-multi-language",
+    "name": "artexte-art",
     "version": "2.0.0",
     "private": true,
     "scripts": {
@@ -8,9 +8,13 @@
         "start": "next start"
     },
     "dependencies": {
+        "@chakra-ui/react": "^1.6.6",
+        "@emotion/react": "^11.4.1",
+        "@emotion/styled": "^11.3.0",
         "axios": "^0.21.1",
+        "framer-motion": "^4.1.17",
         "marked": "^2.0.3",
-        "next": "10.2.0",
+        "next": "^11.1.0",
         "react": "17.0.2",
         "react-dom": "17.0.2",
         "storyblok-js-client": "^4.0.9",
